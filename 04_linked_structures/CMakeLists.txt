@@ -1,0 +1,3 @@
+add_executable(singly_linked_list singly_linked_list.cpp)
+add_executable(doubly_linked_list doubly_linked_list.cpp)
+add_executable(list_vs_vector_analysis list_vs_vector_analysis.cpp)

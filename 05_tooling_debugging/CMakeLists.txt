@@ -1,0 +1,4 @@
+add_executable(segfault_demo segfault_demo.cpp)
+add_executable(memory_leak_demo memory_leak_demo.cpp)
+add_executable(race_condition_demo race_condition_demo.cpp)
+add_executable(sanitizer_examples sanitizer_examples.cpp)

@@ -1,0 +1,3 @@
+add_executable(rule_of_five_demo rule_of_five_demo.cpp)
+add_executable(move_semantics_tracer move_semantics_tracer.cpp)
+add_executable(exception_safety_demo exception_safety_demo.cpp)
