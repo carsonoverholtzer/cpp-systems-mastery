@@ -1,4 +1,4 @@
-# cpp-systems-mastery
+## Additional Practice
 
 C++ systems programming and low-level engineering portfolio.
 
@@ -23,3 +23,10 @@ C++ systems programming and low-level engineering portfolio.
 
 - **06_concurrency**  
   Threads, atomics, synchronization
+
+---
+
+## Additional Practice
+
+- leetcode → Algorithm problem solving (not part of systems modules)
+
