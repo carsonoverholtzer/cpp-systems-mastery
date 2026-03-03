@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.15)
+project(CppSystemsMastery)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_subdirectory(01_memory_model)
+add_subdirectory(02_rule_of_five)
+add_subdirectory(03_vector_implementation)
+add_subdirectory(04_linked_structures)
+add_subdirectory(05_tooling_debugging)
+add_subdirectory(06_concurrency)
