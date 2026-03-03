@@ -1,16 +1,19 @@
-# 01 – Memory Model
+# 01 — Memory Model
 
-## Concepts Covered
-- Stack vs Heap allocation
-- Automatic storage duration
-- Dynamic allocation
+This module explores how objects live and die in C++.
+
+Topics:
+- Stack vs heap allocation
+- Storage duration
 - Object lifetime
+- RAII principles
+- Manual memory management
 
-## Files
-- stack_vs_heap.cpp → Demonstrates stack vs heap behavior
-- manual_allocator.cpp → Basic manual allocation mechanics
+Executables:
+- stack_vs_heap
+- storage_duration
+- object_lifetime
+- manual_allocator
 
-## Build
-mkdir build && cd build
-cmake ..
-make
+Goal:
+Develop a precise mental model of memory layout and lifetime rules.
